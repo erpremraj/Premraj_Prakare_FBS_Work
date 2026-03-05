@@ -1,4 +1,4 @@
-My Projects and everything related to all modules
+# VidyaMandir- Library Management System using python domain
 main.py is the main program of VidyaMandir Library System.
 It shows a menu for Admin and Users.
 Admins can add, update, delete, search books, and view users.
