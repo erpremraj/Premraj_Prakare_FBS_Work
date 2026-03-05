@@ -1,8 +1,0 @@
-VidyaMandir is Library Management System project using Python domain.
-I used OOPs concepts, Packages and modules for each files,
-then Exception handling and File handling used from Python programming language
-It is simply login as admin, login as user, register as user
-When you login as admin You can add book, update book, view all books, search book view all users.
-When you login as user You can borrow book, return book, search book, and view all books.
-Admin username and password is admin, admin1234 by default to login.
-I have mentioned in comments in project related to project
